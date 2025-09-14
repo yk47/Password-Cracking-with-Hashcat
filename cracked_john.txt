@@ -1,0 +1,6 @@
+?:password
+?:qwerty
+?:secret
+?:abc123
+
+4 password hashes cracked, 1 left
